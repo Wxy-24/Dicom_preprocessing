@@ -1,6 +1,6 @@
 # Dicom_preprocessing
 
-##Basic preprocssing operations for 3D medical images with DICOM format
+## Basic preprocssing operations for 3D medical images with DICOM format
 
 Save/load Dicom file as png image slices
 
