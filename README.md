@@ -4,7 +4,7 @@
 
 Save/load Dicom file as png image slices
 
-Normalization of voxel to uniformed size(1X1x1)
+Normalization of voxel to uniformed size(1x1x1)
 
 Reorientation (`rotation`) of 3D meical images
 
